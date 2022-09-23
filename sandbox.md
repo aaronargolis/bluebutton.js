@@ -41,7 +41,7 @@ Use sample data and convert: <button onclick="load('bb_ref_ccda')">Sample CCDA</
 
 ## Document
 
-<pre><code id="document" class="javascript"></code></pre>
+<pre><code id="" class="javascript"></code></pre>
 
 
 <a name="demographics-section"></a>
